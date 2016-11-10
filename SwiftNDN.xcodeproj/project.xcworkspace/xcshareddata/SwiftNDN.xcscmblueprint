@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "488312D643883DC6ADD7A6FD118D6C6B0AA6A571",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "90BAADA55F434EF16EB384C069E2EC197A9BCBA9" : 9223372036854775807,
+    "488312D643883DC6ADD7A6FD118D6C6B0AA6A571" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "38223F67-8B7C-43AF-A532-ACA57FB51BFA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "90BAADA55F434EF16EB384C069E2EC197A9BCBA9" : "swiftndn\/",
+    "488312D643883DC6ADD7A6FD118D6C6B0AA6A571" : "swiftndn-xcode\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftNDN",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftNDN.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:jdlee6461\/swiftndn.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "488312D643883DC6ADD7A6FD118D6C6B0AA6A571"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wentaoshang\/SwiftNDN.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "90BAADA55F434EF16EB384C069E2EC197A9BCBA9"
+    }
+  ]
+}
